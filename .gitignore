@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code settings
+.vscode/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files
+data/raw/
+*.tif
+*.tiff
+
+# Temporary files
+*.tmp
